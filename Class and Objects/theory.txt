@@ -1,0 +1,16 @@
+Class -- is like a blueprint for entities
+
+Object --  real world entities
+
+
+
+
+Access Modifiers
+
+1.private -- data and methods accessible inside Class
+
+2.public -- data and methods accessible to everyone
+
+3.protected -- data and methods accessible inside class and to its derived class
+
+NOTE-- by default private

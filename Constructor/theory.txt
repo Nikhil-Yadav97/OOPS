@@ -1,0 +1,6 @@
+Constructor -- special method that invoke automatically at time of object creation.Used for Initialisation.
+
+-->same name as class
+-->Constructor doesnt hava a return type
+-->only called once at obj creation.
+-->memory allocated happens when Constructor is called.
