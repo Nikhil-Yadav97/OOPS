@@ -1,0 +1,3 @@
+-->auto call when obj del or out of scope
+
+-->cpp default destructor call if not defined explecity

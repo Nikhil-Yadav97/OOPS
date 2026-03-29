@@ -4,3 +4,13 @@ Constructor -- special method that invoke automatically at time of object creati
 -->Constructor doesnt hava a return type
 -->only called once at obj creation.
 -->memory allocated happens when Constructor is called.
+
+
+Types
+-->Non Parameterised
+-->Parameterised
+-->Copy Constructor
+
+
+this Keyword--> this is a special pointer in cpp that points to the current object.
+                this->fn() is same as (*this).fn()
